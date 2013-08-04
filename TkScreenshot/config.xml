@@ -1,0 +1,18 @@
+<TkScreenshot>
+  <Options>
+    <FtpUser></FtpUser>
+    <FtpPassword></FtpPassword>
+    <FtpPath>ftp://</FtpPath>
+    <HttpPath>http://</HttpPath>
+    <Opacity>100</Opacity>
+    <BgRed>255</BgRed>
+    <BgGreen>12</BgGreen>
+    <BgBlue>255</BgBlue>
+    <FileFormat>6</FileFormat>
+    <FileName>%dd_%dm_%dY_%s_%w_%h</FileName>
+    <Screenshots>749</Screenshots>
+  </Options>
+  <History>
+   
+  </History>
+</TkScreenshot>
